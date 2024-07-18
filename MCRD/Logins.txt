@@ -1,0 +1,19 @@
+Administrator
+
+User Name: admin
+Password: admin
+
+Consultation Office
+
+User Name: consultation
+Password: consultation
+
+Laboratory
+
+User Name: laboratory
+Password: laboratory
+
+Business Office
+
+User Name: business
+Password: business

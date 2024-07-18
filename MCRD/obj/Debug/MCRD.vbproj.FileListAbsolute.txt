@@ -1,0 +1,82 @@
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\MCRD\bin\Debug\MCRD.exe.config
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\MCRD\bin\Debug\MCRD.exe
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\MCRD\bin\Debug\MCRD.pdb
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\MCRD\bin\Debug\MCRD.xml
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\MCRD\obj\Debug\MCRD.vbproj.AssemblyReference.cache
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\MCRD\obj\Debug\MCRD.DoctorAdmin.resources
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\MCRD\obj\Debug\MCRD.Login.resources
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\MCRD\obj\Debug\MCRD.Administrator.resources
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\MCRD\obj\Debug\MCRD.PatientAdmin.resources
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\MCRD\obj\Debug\MCRD.Splash.resources
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\MCRD\obj\Debug\MCRD.Resources.resources
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\MCRD\obj\Debug\MCRD.vbproj.GenerateResource.cache
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\MCRD\obj\Debug\MCRD.vbproj.CoreCompileInputs.cache
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\MCRD\obj\Debug\MCRD.exe
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\MCRD\obj\Debug\MCRD.xml
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\MCRD\obj\Debug\MCRD.pdb
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\MCRD\bin\Debug\MCRDDatabase.mdf
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\MCRD\bin\Debug\MCRDDatabase_log.ldf
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\MCRD\bin\Debug\MCRD.exe.manifest
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\MCRD\bin\Debug\MCRD.application
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\MCRD\obj\Debug\MCRD.exe.manifest
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\MCRD\obj\Debug\MCRD.application
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\MCRD\obj\Debug\MCRD.SecretaryAdmin.resources
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\MCRD\obj\Debug\MCRD.CashierAdmin.resources
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\MCRD\obj\Debug\MCRD.LabReceptionistAdmin.resources
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\MCRD\obj\Debug\MCRD.MedTechAdmin.resources
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\MCRD\obj\Debug\MCRD.MedicineAdmin.resources
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\MCRD\obj\Debug\MCRD.AppointmentAdmin.resources
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\MCRD\obj\Debug\MCRD.LabTestAdmin.resources
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\MCRD\obj\Debug\MCRD.Consultation.resources
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\MCRD\obj\Debug\MCRD.PatientCons.resources
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\MCRD\obj\Debug\MCRD.ConsultationCons.resources
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\MCRD\obj\Debug\MCRD.PrescriptionCons.resources
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\MCRD\obj\Debug\MCRD.PaymentCons.resources
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\MCRD\obj\Debug\MCRD.Laboratory.resources
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\MCRD\obj\Debug\MCRD.SampleLab.resources
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\MCRD\obj\Debug\MCRD.ProcSampleLab.resources
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\MCRD\obj\Debug\MCRD.LabResult.resources
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\MCRD\obj\Debug\MCRD.BusinessOffice.resources
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\MCRD\obj\Debug\MCRD.PaymentBusiness.resources
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\DB2 VERSION\MCRD\obj\Debug\MCRD.vbproj.AssemblyReference.cache
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\DB2 VERSION\MCRD\obj\Debug\MCRD.AppointmentAdmin.resources
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\DB2 VERSION\MCRD\obj\Debug\MCRD.BusinessOffice.resources
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\DB2 VERSION\MCRD\obj\Debug\MCRD.CashierAdmin.resources
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\DB2 VERSION\MCRD\obj\Debug\MCRD.Consultation.resources
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\DB2 VERSION\MCRD\obj\Debug\MCRD.ConsultationCons.resources
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\DB2 VERSION\MCRD\obj\Debug\MCRD.DoctorAdmin.resources
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\DB2 VERSION\MCRD\obj\Debug\MCRD.Laboratory.resources
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\DB2 VERSION\MCRD\obj\Debug\MCRD.LabReceptionistAdmin.resources
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\DB2 VERSION\MCRD\obj\Debug\MCRD.LabResult.resources
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\DB2 VERSION\MCRD\obj\Debug\MCRD.LabTestAdmin.resources
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\DB2 VERSION\MCRD\obj\Debug\MCRD.PaymentBusiness.resources
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\DB2 VERSION\MCRD\obj\Debug\MCRD.PaymentCons.resources
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\DB2 VERSION\MCRD\obj\Debug\MCRD.Login.resources
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\DB2 VERSION\MCRD\obj\Debug\MCRD.Administrator.resources
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\DB2 VERSION\MCRD\obj\Debug\MCRD.MedicineAdmin.resources
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\DB2 VERSION\MCRD\obj\Debug\MCRD.MedTechAdmin.resources
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\DB2 VERSION\MCRD\obj\Debug\MCRD.PatientAdmin.resources
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\DB2 VERSION\MCRD\obj\Debug\MCRD.PatientCons.resources
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\DB2 VERSION\MCRD\obj\Debug\MCRD.PrescriptionCons.resources
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\DB2 VERSION\MCRD\obj\Debug\MCRD.ProcSampleLab.resources
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\DB2 VERSION\MCRD\obj\Debug\MCRD.SampleLab.resources
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\DB2 VERSION\MCRD\obj\Debug\MCRD.SecretaryAdmin.resources
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\DB2 VERSION\MCRD\obj\Debug\MCRD.Splash.resources
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\DB2 VERSION\MCRD\obj\Debug\MCRD.Resources.resources
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\DB2 VERSION\MCRD\obj\Debug\MCRD.vbproj.GenerateResource.cache
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\DB2 VERSION\MCRD\obj\Debug\MCRD.vbproj.CoreCompileInputs.cache
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\DB2 VERSION\MCRD\obj\Debug\MCRD.exe
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\DB2 VERSION\MCRD\obj\Debug\MCRD.xml
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\DB2 VERSION\MCRD\obj\Debug\MCRD.pdb
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\DB2 VERSION\MCRD\bin\Debug\MCRDDatabase.mdf
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\DB2 VERSION\MCRD\bin\Debug\MCRDDatabase_log.ldf
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\DB2 VERSION\MCRD\bin\Debug\MCRD.exe.config
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\DB2 VERSION\MCRD\bin\Debug\MCRD.exe.manifest
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\DB2 VERSION\MCRD\bin\Debug\MCRD.application
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\DB2 VERSION\MCRD\bin\Debug\MCRD.exe
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\DB2 VERSION\MCRD\bin\Debug\MCRD.pdb
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\DB2 VERSION\MCRD\bin\Debug\MCRD.xml
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\DB2 VERSION\MCRD\bin\Debug\IBM.Data.DB2.dll
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\DB2 VERSION\MCRD\obj\Debug\MCRD.exe.manifest
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\DB2 VERSION\MCRD\obj\Debug\MCRD.application
+D:\College Files\2nd Year\2nd Semester\CCS5\Medical Consultation Record Database System\Main\DB2 VERSION\MCRD\obj\Debug\MCRD.vbproj.CopyComplete
